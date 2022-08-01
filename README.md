@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AFROZEC
 - 👀 I’m interested in automating image analysis for bacterial cells
-- 🌱 I’m currently pursuing my PhD in the DNA repair lab(Dr. Anjana Badrinarayanan) at National Centre for Biological Sciences, Bangalore, India.
+- 🌱 I’m currently pursuing my PhD in the DNA repair lab (Dr. Anjana Badrinarayanan) at National Centre for Biological Sciences, Bangalore, India.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me afrozec@ncbs.res.in
 
